@@ -1,12 +1,15 @@
 # sachin-test
 
 Requirements :
-1.aws account 
-2.2 micro ec2 instance .
-3.Ansbile installed on manage / control machine. 
+aws account 
+
+ micro ec2 instance .
+
+Ansbile installed on manage / control machine. 
 
 ---
 #steps 
+
 1.Git clone https://github.com/sachinkgaikwad/sachintest/
 
 2.Make sure you have passwordless connumnication beetwen both machine. 

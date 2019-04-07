@@ -3,12 +3,13 @@
 Requirements :
 aws account 
 
- micro ec2 instance .
+micro ec2 instance --2 .
 
-Ansbile installed on manage / control machine. 
+Ansbile installed on manage / control machine . 
 
 ---
 #steps 
+---
 
 1.Git clone https://github.com/sachinkgaikwad/sachintest/
 
